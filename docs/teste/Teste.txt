@@ -1,0 +1,3 @@
+Com a implentação imediata, os usuário poderão testar diariamente o software.
+Caso haja dificuldades na execução dos processos para criação de crachás, serão direcionadas ao suporte técnico para correção dos mesmos, via e-mail ou telefone.
+A execução feita pelo cliente irá solucionar os problemas enfrentados com o serviço de criação de crachás.
