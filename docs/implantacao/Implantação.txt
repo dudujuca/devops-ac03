@@ -1,0 +1,2 @@
+A parte da programação seria feita na linguagem de programação Python pois serve tanto para front como para end, a linguagem será utilizadas para criação da interface do software.
+O banco de dados será feito com o SQL, pois é um software livre e muito utilizado, assim o custo seria mais baixo para implementação.
