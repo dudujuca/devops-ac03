@@ -1,0 +1,2 @@
+O projeto é criar uma solução para criação de crachás para funcionários utilizando um software local. Utilizando um banco de dados para aramzenamento de informações como fotos, nome, telefone, área entre outras. Esse software irá fazer a comunicação entre o banco de dados e a impressora smart..
+Os usuários relatam que encontram algumas dificuldades com empresas terceirizadas para fazer essas solicitações.
