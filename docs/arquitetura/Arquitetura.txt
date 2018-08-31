@@ -1,0 +1,2 @@
+Esse software irá se comunicar com um banco de dados SQL server, que será alimentado diretamente pelo usuário pela interface com diversos campos para preencher, exemplo Nome, área, foto.
+Com os dados preenchidos o usuário consegue realizar a impressão direta pela impressora smart.
